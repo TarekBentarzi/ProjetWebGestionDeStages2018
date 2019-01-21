@@ -1,0 +1,4 @@
+http://localhost/GestionDeStages/home_admin.php
+
+(Assurez vous de ne pas etre connecter en tant qu'utilisateur si vous voulez acceder
+a la page d'admin sinon ça ne marchera pas et vice versa.)

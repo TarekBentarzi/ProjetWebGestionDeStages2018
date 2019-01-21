@@ -1,0 +1,21 @@
+.container{
+  border-radius: 1Opx 1Opx 10px 10px;  
+}
+
+#canvas1{
+    
+    background-color:orange;
+};
+
+#titre_categ1{
+  border: 1px black;
+};
+
+#choix{
+    
+    margin-left: 700px;
+    
+};
+#mainNav {
+  background: grey;
+}
